@@ -1,7 +1,4 @@
 ## 📂 Project Structure & Quick Links
-
-To explore the design and source code of this movement tracker, use the shortcuts below:
-
 * [💻 View Source Code](Rotating-movment-sensor.ino) — Click here to open the main Arduino sketch and control logic directly.
 * [🖼️ Circuit Wiring Diagram](images/rms_layout.jpg) — Open the high-resolution schematic showing how the sensor and servo are pinned.
 
