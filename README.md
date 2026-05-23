@@ -1,4 +1,4 @@
-#  Rotating movment sensor
+#  Rotating movement sensor
 
 An automated, sensor-based movement tracker using an Arduino Uno, 3x ultrasonic module, and 2x servo motors indicators.
 
